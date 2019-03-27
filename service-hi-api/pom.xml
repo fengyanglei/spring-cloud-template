@@ -43,12 +43,12 @@
 		<repository>
 			<id>releases</id>
 			<name>Release Repository</name>
-			<url>http://47.94.96.106:8081/nexus/content/repositories/releases/</url>
+			<url>http://www.fyl.com:8081/nexus/content/repositories/releases/</url>
 		</repository>
 		<snapshotRepository>
 			<id>snapshots</id>
 			<name>Snapshots Repository</name>
-			<url>http://47.94.96.106:8081/nexus/content/repositories/snapshots/</url>
+			<url>http://www.fyl.com:8081/nexus/content/repositories/snapshots/</url>
 		</snapshotRepository>
 	</distributionManagement>
 
